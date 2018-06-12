@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-checking conflict
-=======
-b
->>>>>>> bala
